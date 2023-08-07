@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/** many of these below should be combined **/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -195,6 +195,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h2 { 
     font-size: 20px;
 }

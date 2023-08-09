@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/** combine next 3 into a new, single class **/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/** after these are combined, the extra element selectors can also be combined **/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/** combine the next 3 into a new, single class **/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/** after the above 3 combine, we can combine the element selectors **/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -195,6 +195,6 @@ p {
     text-align: center;
 }
 
-.footer h2 { 
+.footer h4 { 
     font-size: 20px;
 }

@@ -7,8 +7,9 @@ I wanted to make the Horiseon Website more accessible to raise its position in s
 
 ## Usage
 
-Click the nav bar items to be taken to useful information! You can also right-click in your browser and select inspect. Click the content selector button at the very top left of the new box that pops up, hover over any items, and check their accessibility criteria!
-
+Click the nav bar items to be taken to useful information! You can also right-click in your browser and select inspect. Click the content selector button at the very top left of the new box that pops up, hover over any items, and check their accessibility criteria! 
+Link: https://g-barrett.github.io/Bootcamp-Challenge-1/
+![alt text](./assets/images/Web%20capture_10-8-2023_16547_g-barrett.github.io.jpeg "Deployed Webpage")
 
 ## Credits
 
